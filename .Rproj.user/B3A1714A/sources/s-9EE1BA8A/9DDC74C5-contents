@@ -1,0 +1,12 @@
+---
+title: "New_project on GIT"
+author: "Jessy"
+date: "10/24/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+this is a practice for the homicide data across us

@@ -1,0 +1,19 @@
+]0;~/Desktop/R programming/Data/new project[?1034hYuqins-MacBook-Pro:new project yuqinjiao$ [KYuqins-MacBook-Pro:new project yuqinjiao$ [KYuqins-MacBook-Pro:new project yuqinjiao$ git -- version
+unknown option: --
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;~/Desktop/R programming/Data/new projectYuqins-MacBook-Pro:new project yuqinjiao$ git config -- global[K[K[K[K[K[K[Kglobal user name "[K[K[K[K[K[K[K.name "Yuqin Jiao"
+]0;~/Desktop/R programming/Data/new projectYuqins-MacBook-Pro:new project yuqinjiao$ git config --global user.email"yjiao@colostate.edu"
+]0;~/Desktop/R programming/Data/new projectYuqins-MacBook-Pro:new project yuqinjiao$ [KYuqins-MacBook-Pro:new project yuqinjiao$ 
+]0;~/Desktop/R programming/Data/new projectYuqins-MacBook-Pro:new project yuqinjiao$ [KYuqins-MacBook-Pro:new project yuqinjiao$ [KYuqins-MacBook-Pro:new project yuqinjiao$ [KYuqins-MacBook-Pro:new project yuqinjiao$ [KYuqins-MacBook-Pro:new project yuqinjiao$ ls
+Writing 	data
+]0;~/Desktop/R programming/Data/new projectYuqins-MacBook-Pro:new project yuqinjiao$ ls -a
+.		.DS_Store	.git		data
+..		.Rproj.user	Writing 
+]0;~/Desktop/R programming/Data/new projectYuqins-MacBook-Pro:new project yuqinjiao$ ls .git
+COMMIT_EDITMSG	config		hooks		info		objects
+HEAD		description	index		logs		refs
+]0;~/Desktop/R programming/Data/new projectYuqins-MacBook-Pro:new project yuqinjiao$ 

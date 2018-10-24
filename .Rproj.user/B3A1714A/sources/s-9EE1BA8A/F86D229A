@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540400677282.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F86D229A",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1540400677282,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "618566FC",
+        "caption" : "homicide_master",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=homicide_master&cache_key=618566FC",
+        "displayedObservations" : 52179,
+        "environment" : "",
+        "object" : "homicide_master",
+        "preview" : 0,
+        "totalObservations" : 52179,
+        "variables" : 12
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
